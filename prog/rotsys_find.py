@@ -1,4 +1,3 @@
-#!/usr/bin/python
 """
 	A SAT framework for topological drawings
     (c) 2022 Manfred Scheucher <scheucher@math.tu-berlin.de>
